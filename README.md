@@ -24,6 +24,6 @@ Various SVD .zip archives: Each contains a data set and Jupyter notebook. Exampl
 system using data obtained from students in this course, image denoising/compression, and decisions rendered by the Supreme Court (See "Singular Value's Subtle Secrets,"  David James, Michael Lachance, and Joan Remski, College Math Journal vol. 42, 2011,  p. 86–95 as well as "A pattern analysis of the second Rehnquist U.S. Supreme Court", Lawrence Sirovich, PNAS, vol 100 , 2003, 7432-7437).
 
 Spectral Clustering.zip: Jupyter notebooks and data for performing spectral clustering. Example data comes from 9/11 terrorist
-network (19 nodes, unweighted, undirected) and Star Wars co-appearances (21 nodes, weighted, undirected).
+network (62 nodes, unweighted, undirected) and Star Wars co-appearances (21 nodes, weighted, undirected).
 
 A Jupyter notebook focusing on k-means clustering.
