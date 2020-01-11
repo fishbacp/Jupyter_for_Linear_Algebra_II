@@ -1,5 +1,5 @@
 # Jupyter_for_Linear_Algebra_II
-A collection of Jupyter notebooks and data sets for use in a second linear algebra course.
+A collection of Jupyter notebooks, data sets, and other instructional materials for use in a second linear algebra course.
 
 Files corresponding to the presentation at the 2020 Joint MAA/AMS Meetings given by David Austin and Paul E. Fishback, entitled "
 A Second Linear Algebra Course Emphasizing Data Analysis within a Jupyter Notebook Environment."
